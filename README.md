@@ -1,4 +1,4 @@
-# Project Title
+# Using Machine Learning for Feature Extraction and Identification of Artworks of Pablo Picasso and Henri Matisse
 
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
