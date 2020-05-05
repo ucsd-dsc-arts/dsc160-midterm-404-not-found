@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/scraping_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_scraping.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/run_scraping.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="188" />
     <option name="y" value="41" />
     <option name="width" value="1440" />
     <option name="height" value="859" />
@@ -80,6 +80,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -108,7 +109,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="41" width="1440" height="859" extended-state="0" />
+    <frame x="188" y="41" width="1440" height="859" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
