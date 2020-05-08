@@ -3,11 +3,11 @@
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
 Project Team Members: 
--Tianran Qiu       tiq004@ucsd.edu 
--Zishun Jin        zij034@ucsd.edu 
--Yijun Liu         yil724@ucsd.edu 
--Weihua Zhao       wez205@ucsd.edu 
--Da Gong           dagong@ucsd.edu
+* Tianran Qiu       tiq004@ucsd.edu 
+* Zishun Jin        zij034@ucsd.edu 
+* Yijun Liu         yil724@ucsd.edu 
+* Weihua Zhao       wez205@ucsd.edu 
+* Da Gong           dagong@ucsd.edu
 
 
 ## Abstract
