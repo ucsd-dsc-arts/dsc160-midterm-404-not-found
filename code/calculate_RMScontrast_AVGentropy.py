@@ -32,6 +32,8 @@ print('picasso rms start')
 image_folder = os.path.join(os.pardir, 'data/picasso')
 picasso_women_path = os.path.join(os.pardir, 'data/picasso_women.csv')
 picasso_women = pd.read_csv(picasso_women_path)
+print(image_folder)
+
 picasso_women['RMS_contrast'] = picasso_women.apply(lambda x: RMS_CONTRAST(os.path.join(image_folder,x['Picturesource'])), axis = 1)
 
 print('matisse rms start')

@@ -20,26 +20,22 @@ We were always fascinated by the rivalry between artists. The rivalry was like a
 
 ## Data
 
-(10 points) 
+We have acquired two datasets from two websites, [Pablo Picasso Painting Website](https://www.pablo-ruiz-picasso.net/topviews.php) and [Henry Matisse Painting Website](http://www.henri-matisse.net/paintingssectionone.html). The two websites consisted paintings created by Pablo Picasso and Henry Martisse. In our datasets, we chosed the paintings created between 1900 and 1942. We scrapped down 235 Picasso's painting's from the first website, [Picasso Paintings](https://github.com/ucsd-dsc-arts/dsc160-midterm-404-not-found/tree/master/data/picasso). And we scrapped down 154 Martisse's paintings from the second website, [Matisse Paintings](https://github.com/ucsd-dsc-arts/dsc160-midterm-404-not-found/tree/master/data/henri-matisse). The data is the digital copy of two artisits' original paintings. All of the data are in JPG form. 
 
-This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
-- What is your cultural data source? 
-- When was it made? 
-- Who created the works? 
-- Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
 
 ## Code
+- Data Acquisition/ Scraping 
+  * [Scraping](/code/run_scraping.ipynb): This part is for running scraping data from the dataset mentioned above. The main code is in the [scraping_data](/code/scraping_data.py)file.
+- Preprocessing / Cleaning
+  * [Label portraits into Maternity and Mistress](/code/run_Mat_vs_mis.ipynb): This part is for running labeling the images of these two artists into Maternity and Mistress by using keywords in the image name. The main code is in the [mat_vs_mis](/code/mat_vs_mis.py)file.
+  * [Calculate the RMS Contrast and Average Entropy features](/code/run_calculating_RMS_Entropy.ipynb): This part is for extracting the RMS Contrast and Average Entropy features from images. The main code is in the [calculate_RMScontrast_AVGentropy](/code/calculate_RMScontrast_AVGentropy.py)file. `Root mean square (RMS) contrast` does not depend on the angular frequency content or the spatial distribution of contrast in the image. RMS contrast is defined as the standard deviation of the pixel intensities. `Average Entropy` is for evaluating the complexity of an image.
+- Analysis / Generating Results
+  * [Analysis on Erotic Charge](/code/Erotic_charge.ipynb): This is a notebook for analyzing erotic charge in images for these two artists.
+  * [Classifier for these two artists](/code/Classifier.ipynb): This is a notebook for classfying the images of these two artists. 
+  * [Visualization Result](/code/Visualization.ipynb): This is the interactive data visualization notebook for these two artists according to RMS Contrast and Average Entropy features.
+  
+ To see how to run our code, please refer to [Midterm Project Showcase](/code/Midterm.ipynb)
 
-(20 points)
-
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
-
-- data acquisition/scraping
-- cleaning
-- analysis
-- generating results. 
-
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
 
@@ -66,7 +62,11 @@ The subsequent paragraphs could address questions including:
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+* Tianran Qiu
+* Zishun Jin
+* Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
+* Weihua Zhao:
+* Da Gong:
 
 ## Technical Notes and Dependencies
 

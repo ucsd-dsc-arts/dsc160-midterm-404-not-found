@@ -65,10 +65,11 @@ def scrape_arts_henri(sec_num):
             painting_paths.append(url_append)
     return painting_paths
 
-
+print('Start Downloading Henri arts.....')
 HENRI_ARTS = [scrape_arts_henri(sec_num) for sec_num in ['one', 'two', 'three']]
 HENRI_ARTS = sum(HENRI_ARTS, [])
 pd.Series(NAME_YEAR_HENRI_DIC).to_csv(os.path.join(DATA_DIR, 'henri_dic.csv'), header = True)
+print('End Downloading Henri arts.....')
 
 
 
@@ -103,11 +104,11 @@ def scrape_arts_pablo(here_to_scrape):
             painting_paths.append(url_append)
     return painting_paths
 
-
+print('Start Downloading Pablo arts.....')
 PABLO_ARTS = scrape_arts_pablo('topviews')+scrape_arts_pablo('topshared')+scrape_arts_pablo('topexpensive')
 PABLO_ARTS
 pd.Series(NAME_YEAR_PABLO_DIC).to_csv(os.path.join(DATA_DIR, 'picasso.csv'), header = True)
-
+print('End Downloading Pablo arts.....')
 
 
 
@@ -134,7 +135,7 @@ def download_and_save(artist_name):
                 f.write(r_painting_page.content)
         else:
             pass
-
-print('start downloading....')
+print('start Saving to local....')
 download_and_save('henri-matisse')
 download_and_save('picasso')
+print('end Saving to local....')
