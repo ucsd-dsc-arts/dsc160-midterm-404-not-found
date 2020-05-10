@@ -10,7 +10,11 @@ from skimage.color import rgb2gray
 def RMS_CONTRAST(imagefile):
     print(imagefile)
     img = cv2.imread(imagefile)
+    if imagefile.split('/')[-1] == 'images-works-38_s.jpg':
+        print(img)
     oneD_pixels = np.concatenate(img, axis=0)
+    if imagefile.split('/')[-1] == 'images-works-38_s.jpg':
+        print(oneD_pixels)
 
     brightness = 0
     ## average brightness
@@ -26,12 +30,16 @@ def RMS_CONTRAST(imagefile):
         rms += pow((brightness - average_brightness), 2);  ## calculate squared
     rms /= len(oneD_pixels)  ## calculate mean squared
     rms = pow(rms, 0.5)
+    if imagefile.split('/')[-1] == 'images-works-38_s.jpg':
+        print(rms)
     return rms
 
 print('picasso rms start')
 image_folder = os.path.join(os.pardir, 'data/picasso')
 picasso_women_path = os.path.join(os.pardir, 'data/picasso_women.csv')
 picasso_women = pd.read_csv(picasso_women_path)
+print(image_folder)
+
 picasso_women['RMS_contrast'] = picasso_women.apply(lambda x: RMS_CONTRAST(os.path.join(image_folder,x['Picturesource'])), axis = 1)
 
 print('matisse rms start')

@@ -1,8 +1,9 @@
 import pandas as pd
 import numpy as np
+import os
 
-pp = pd.read_csv('../data/picasso.csv')
-hm = pd.read_csv('../data/henri_dic.csv')
+pp = pd.read_csv(os.path.join(os.pardir, 'data/picasso.csv'))
+hm = pd.read_csv(os.path.join(os.pardir, 'data/henri_dic.csv'))
 
 pp = pp.rename(columns={'Unnamed: 0': 'Picturesource', '0': 'Painting'})
 pp = pp.assign(Year=pp['Painting'])
@@ -22,7 +23,8 @@ def pp_mat_or_mis(row):
             return 1
 pp['Portrait'] = pp.apply(pp_mat_or_mis, axis=1)
 pp_women = pp.loc[pp['Portrait'].notnull()]
-pp_women.to_csv (r'../data/picasso_women.csv', index = False, header=True)
+pp_women.to_csv(os.path.join(os.pardir,'data/picasso_women.csv'), index = False, header=True)
+print('Finish classifying Picasso women type...')
 
 
 
@@ -44,4 +46,5 @@ def hm_mat_or_mis(row):
             return 1
 hm['Portrait'] = hm.apply(hm_mat_or_mis, axis=1)
 hm_women = hm.loc[hm['Portrait'].notnull()]
-hm_women.to_csv (r'../data/matisse_women.csv', index = False, header=True)
+hm_women.to_csv (os.path.join(os.pardir,'data/matisse_women.csv'), index = False, header=True)
+print('Finish classifying Henri women type...')
