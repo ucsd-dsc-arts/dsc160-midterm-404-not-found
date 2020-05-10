@@ -32,7 +32,7 @@ We have acquired two datasets from two websites, [Pablo Picasso Painting Website
 - Analysis / Generating Results
   * [Analysis on Erotic Charge](/code/Erotic_charge.ipynb): This is a notebook for analyzing erotic charge in images for these two artists.
   * [Classifier for these two artists](/code/Classifier.ipynb): This is a notebook for classfying the images of these two artists. 
-  * [Visualization Result](/code/Visualization.ipynb): This is the interactive data visualization notebook for these two artists according to RMS Contrast and Average Entropy features.
+  * [Visualization Result](/results/Visualization.ipynb): This is the interactive data visualization notebook for these two artists according to RMS Contrast and Average Entropy features.
   
  To see how to run our code, please refer to [Midterm Project Showcase](/code/Midterm.ipynb)
 
