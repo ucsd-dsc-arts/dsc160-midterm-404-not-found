@@ -10,11 +10,7 @@ from skimage.color import rgb2gray
 def RMS_CONTRAST(imagefile):
     print(imagefile)
     img = cv2.imread(imagefile)
-    if imagefile.split('/')[-1] == 'images-works-38_s.jpg':
-        print(img)
     oneD_pixels = np.concatenate(img, axis=0)
-    if imagefile.split('/')[-1] == 'images-works-38_s.jpg':
-        print(oneD_pixels)
 
     brightness = 0
     ## average brightness
@@ -30,8 +26,6 @@ def RMS_CONTRAST(imagefile):
         rms += pow((brightness - average_brightness), 2);  ## calculate squared
     rms /= len(oneD_pixels)  ## calculate mean squared
     rms = pow(rms, 0.5)
-    if imagefile.split('/')[-1] == 'images-works-38_s.jpg':
-        print(rms)
     return rms
 
 print('picasso rms start')
