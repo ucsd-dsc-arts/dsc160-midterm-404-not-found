@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classifier.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mat_vs_mis.py" beforeDir="false" afterPath="$PROJECT_DIR$/mat_vs_mis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scraping_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraping_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../data/classifier.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/classifier.csv" afterDir="false" />
-    </list>
+    <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="878">
-              <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="58" />
+            <state relative-caret-position="248">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -41,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mat_vs_mis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="225">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -85,7 +78,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="701" />
+    <option name="x" value="174" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="859" />
@@ -140,7 +133,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="859" extended-state="0" />
+    <frame x="174" y="23" width="1440" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -179,22 +172,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mat_vs_mis.py">
+    <entry file="file://$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="248">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py">
+    <entry file="file://$PROJECT_DIR$/mat_vs_mis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="58" />
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="17" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
