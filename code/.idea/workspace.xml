@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py" afterDir="false" />
-    </list>
+    <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,11 +102,6 @@
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,7 +139,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="411" y="79" width="1440" height="859" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
