@@ -43,8 +43,8 @@ This section will link to the various code for your project (stored within this 
   * [Analysis on Erotic Charge](/code/Erotic_charge.ipynb)
 - generating results. 
   * [Classifier for these two artists --- 大家放code链接啊！！！！！](/code/Classifier.ipynb)
-  * [Visualization Result ---- 这里也要再稍微整理下code放链接上来]()
-
+  * [Visualization Result ---- 这里也要再稍微整理下code放链接上来](/code/Visualization.ipynb)
+Classifier
 Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
