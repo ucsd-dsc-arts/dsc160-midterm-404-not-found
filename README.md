@@ -33,7 +33,6 @@ This section will describe your data and its origins. Each item should contain a
 
 ## Code
 
-(20 points)
 This is the part for codes of our project. This part contains 4 sections. The first section is code for scraping data from the two websites mentioned in the 'Data' Section. The second section is code for cleaning our data: for this project, the cleaning job is mainly to classify the women portraits of these two artists into maternity(0) and mistress (1). The third part is analysis: we first calculate the RMS contrast and average entropy features of images and then did analysis on erotic charge. The fourth part is results: we have developed a classfier for distinguishing the works of these two in this part, and we also did a visualization according to RMS contrast and average entropy to see how these two artists are different. 
 
 - data acquisition/scraping 
