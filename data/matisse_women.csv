@@ -1,63 +1,63 @@
-,Picturesource,Painting,Year,Portrait,RMS_contrast,AVG_entropy
-0,paintings-thmbnls150-bb.jpg,"('standing model', 1901)",1901,1.0,0.16188612918471781,4.809606503759797
-1,paintings-thmbnls150-ba.jpg,"('male model', 1900)",1900,1.0,0.16904180191032478,4.7809587222274965
-2,paintings-thmbnls150-bd.jpg,"('nude with a white wash towel', 1903)",1903,1.0,0.1584004253965375,4.845199177852283
-3,paintings-thmbnls150-bc.jpg,"('carmelina', 1903)",1903,1.0,0.19844356530862575,5.141422366515701
-4,paintings-thmbnls150-cs.jpg,"('the green line (portrait of madame matisse)', 1905)",1905,0.0,0.1731259727575513,5.002341930543827
-5,paintings-thmbnls150-dr.jpg,"('woman with a hat (madame matisse)', 1905)",1905,0.0,0.20227692092896493,5.171739445080757
-6,paintings-thmbnls150-zd.jpg,"('blue nude', 1905)",1905,0.0,0.22922328216580481,5.315705756176852
-7,paintings-thmbnls150-hma308.jpg,"('woman with a parasol', 1905)",1905,1.0,0.11817135426274261,5.1967613825179315
-8,paintings-thmbnls150-by.jpg,"('marguerite reading', 1906)",1906,0.0,0.20458022103896187,5.124800256932628
-9,paintings-thmbnls150-gk.jpg,"('interior at collioure', 1906)",1906,1.0,0.16412548891945494,5.229967126037817
-10,paintings-thmbnls150-zc.jpg,"('marguerite', 1906)",1906,0.0,0.3014534050684906,5.063866460173814
-11,paintings-thmbnls150-zb.jpg,"('marguerite', 1906)",1906,0.0,0.21315024121834697,5.305850322338453
-12,paintings-orient_111_thmb.jpg,"('woman on a terrace', 1907)",1907,1.0,0.17450213183791502,5.026028258052938
-13,paintings-thmbnls150-bu.jpg,"('portrait of marguerite', 1907)",1907,0.0,0.16467318842319195,4.706920588001834
-14,paintings-orient_123_thmb.jpg,"('portrait of pierre matisse', 1909)",1909,0.0,0.22304961200886086,4.7030352849202695
-15,paintings-thmbnls150-cb.jpg,"('woman in green', 1909)",1909,1.0,0.19794144524916085,4.767571916144414
-16,paintings-orient_129_thmb.jpg,"('rose nude', 1909)",1909,1.0,0.1635151604733783,4.789168604136155
-17,paintings-thmbnls150-bv.jpg,"('marguerite with a black cat', 1910)",1910,0.0,0.21496957653937557,4.581367369219348
-18,paintings-thmbnls150-ea.jpg,"('the conversation', 1911)",1911,0.0,0.13282609849284124,4.405845407963499
-19,paintings-thmbnls150-cc.jpg,"('laurette with a white blouse', 1916)",1916,1.0,0.21430045224531355,4.71091513844564
-20,paintings-thmbnls150-cd.jpg,"('laurette with a green dress, black background', 1916)",1916,1.0,0.13343966117502062,4.107549562078462
-21,paintings-thmbnls150-eq.jpg,"('the three sisters', 1916)",1916,1.0,0.2624372297710877,4.978471780047867
-22,paintings-orient_187_thmb.jpg,"('head of lorette', 1917)",1917,1.0,0.18531616178572266,4.161004036078051
-23,paintings-thmbnls150-ep.jpg,"('woman at the fountain', 1917)",1917,1.0,0.22740977629967576,5.0592929101026
-24,paintings-orient_189_thmb.jpg,"('aicha and lorette', 1917)",1917,1.0,0.19537142050660708,4.647581860735147
-25,paintings-thmbnls150-hma97.jpg,"('the painter and his model', 1917)",1917,1.0,0.20559525622987837,4.7931553341896445
-26,paintings-orient_185_thmb.jpg,"('lorette with a red dress', 1917)",1917,1.0,0.1786094159312024,4.998196298859724
-27,paintings-thmbnls150-cj.jpg,"('interior with a violin', 1918)",1918,1.0,0.22078045079108874,4.8498747111301785
-28,paintings-orient_186_thmb.jpg,"('woman with dark hair', 1918)",1918,1.0,0.1430793163453041,4.473421960881686
-29,paintings-thmbnls150-eu.jpg,"('woman with a flowered hat', 1919)",1919,1.0,0.2022344114171345,5.151225378791243
-30,paintings-orient_183_thmb.jpg,"('woman with oriental dress', 1919)",1919,1.0,0.1659293824315523,5.033920466363937
-31,paintings-thmbnls150-et.jpg,"('the artist and his model', 1919)",1919,1.0,0.15436806235066292,5.4297494593246425
-32,paintings-thmbnls150-ex.jpg,"('girl with a green dress', 1921)",1921,1.0,0.21238322247861977,5.108931698279817
-33,paintings-thmbnls150-ez.jpg,"('odalisque with red pants', 1921)",1921,1.0,0.178208939288297,5.123990091438593
-34,paintings-orient_193_thmb.jpg,"('odalisque with a green plant and screen', 1923)",1923,1.0,0.1535260843814363,4.904267543983197
-35,paintings-orient_195_thmb.jpg,"('odalisque', 1923)",1923,1.0,0.14405794762525145,5.063071257184153
-36,paintings-thmbnls150-ca.jpg,"('moorish woman with upheld arms', 1923)",1923,1.0,0.1973779935248273,5.34748953313249
-37,paintings-thmbnls150-fe.jpg,"('odalisque with magnolia', 1924)",1924,1.0,0.19573439214270064,5.079973407673441
-38,paintings-orient_199_thmb.jpg,"('odalisque', 1925)",1925,1.0,0.12223037798112998,4.882068786409143
-39,paintings-thmbnls150-ff.jpg,"('odalisque with a tambourine', 1926)",1926,1.0,0.2103068087673533,5.12116300341426
-40,paintings-orient_84_thmb.jpg,"('odalisque', 1926)",1926,1.0,0.20735627562476916,5.481118947294894
-41,paintings-orient_197_thmb.jpg,"('odalisque', 1926)",1926,1.0,0.15668732676197947,5.258520046091394
-42,paintings-thmbnls150-fh.jpg,"('a nude lying on her back', 1927)",1927,1.0,0.2277246144606496,5.538949697425748
-43,paintings-thmbnls150-fi.jpg,"('odalisque with gray pants', 1927)",1927,1.0,0.2263343990458561,5.1513938644844375
-44,paintings-orient_211_thmb.jpg,"('woman with a white dress', 1934)",1934,1.0,0.17010874702625886,4.962816242802003
-45,paintings-thmbnls150-ey.jpg,"('decorative figure on an ornamental ground', 1934)",1934,1.0,0.20061939093862038,5.50009791691098
-46,paintings-thmbnls150-fk.jpg,"('decorative figure on an ornamental ground', 1934)",1934,1.0,0.21072864413786896,5.015897130275137
-47,paintings-thmbnls150-fo.jpg,"('a pink nude seated', 1935)",1935,1.0,0.1692635553317934,4.915486602418698
-48,paintings-thmbnls150-fj.jpg,"('an nude dtanding before an open door', 1936)",1936,1.0,0.23370384274020242,5.30120526877612
-49,paintings-thmbnls150-fm.jpg,"('a nude with her heel on her knee', 1936)",1936,1.0,0.20184507041587957,5.1252770496565265
-50,paintings-thmbnls150-fp.jpg,"('woman on a sofa, yellow and blue', 1936)",1936,1.0,0.21866641481478596,5.1156138466669105
-51,paintings-thmbnls150-zp.jpg,"('nude on a blue background', 1936)",1936,1.0,0.23907285811606194,4.759942006585013
-52,paintings-thmbnls150-bz.jpg,"('woman in blue / the large blue robe and mimosas', 1936)",1936,1.0,0.232393160914447,4.985255516746232
-53,paintings-thmbnls150-fr.jpg,"('helen with a precious stone', 1937)",1937,1.0,0.18162160322341037,5.427857667556121
-54,paintings-thmbnls150-fs.jpg,"('woman in yellow and blue with a guitar', 1939)",1939,1.0,0.15106708018989132,4.765329142563487
-55,paintings-thmbnls150-dc.jpg,"('young girl with a yellow sofa', 1940)",1940,1.0,0.21533277030079637,5.034137713526083
-56,paintings-thmbnls150-gb.jpg,"('interior with an etruscan vase', 1940)",1940,1.0,0.20990555958584994,5.383190549950609
-57,paintings-thmbnls150-gc.jpg,"('two girls', 1941)",1941,1.0,0.21334268709657722,5.096634412993505
-58,paintings-thmbnls150-gd.jpg,"('woman with a veil', 1942)",1942,1.0,0.15098690170959567,5.012162072117264
-59,paintings-thmbnls150-gn.jpg,"('woman on a dark background', 1942)",1942,1.0,0.22430688078529668,5.131279768580733
-60,paintings-thmbnls150-fz.jpg,"('young girl in rose', 1942)",1942,1.0,0.15612479026914106,4.379388379566639
-61,paintings-thmbnls150-dh.jpg,"('sunlit interior', 1942)",1942,1.0,0.1869610576452867,5.368946178526821
+Picturesource,Painting,Year,Portrait
+paintings-thmbnls150-bb.jpg,"('standing model', 1901)",1901,1.0
+paintings-thmbnls150-ba.jpg,"('male model', 1900)",1900,1.0
+paintings-thmbnls150-bd.jpg,"('nude with a white wash towel', 1903)",1903,1.0
+paintings-thmbnls150-bc.jpg,"('carmelina', 1903)",1903,1.0
+paintings-thmbnls150-cs.jpg,"('the green line (portrait of madame matisse)', 1905)",1905,0.0
+paintings-thmbnls150-dr.jpg,"('woman with a hat (madame matisse)', 1905)",1905,0.0
+paintings-thmbnls150-zd.jpg,"('blue nude', 1905)",1905,0.0
+paintings-thmbnls150-hma308.jpg,"('woman with a parasol', 1905)",1905,1.0
+paintings-thmbnls150-by.jpg,"('marguerite reading', 1906)",1906,0.0
+paintings-thmbnls150-gk.jpg,"('interior at collioure', 1906)",1906,1.0
+paintings-thmbnls150-zc.jpg,"('marguerite', 1906)",1906,0.0
+paintings-thmbnls150-zb.jpg,"('marguerite', 1906)",1906,0.0
+paintings-orient_111_thmb.jpg,"('woman on a terrace', 1907)",1907,1.0
+paintings-thmbnls150-bu.jpg,"('portrait of marguerite', 1907)",1907,0.0
+paintings-orient_123_thmb.jpg,"('portrait of pierre matisse', 1909)",1909,0.0
+paintings-thmbnls150-cb.jpg,"('woman in green', 1909)",1909,1.0
+paintings-orient_129_thmb.jpg,"('rose nude', 1909)",1909,1.0
+paintings-thmbnls150-bv.jpg,"('marguerite with a black cat', 1910)",1910,0.0
+paintings-thmbnls150-ea.jpg,"('the conversation', 1911)",1911,0.0
+paintings-thmbnls150-cc.jpg,"('laurette with a white blouse', 1916)",1916,1.0
+paintings-thmbnls150-cd.jpg,"('laurette with a green dress, black background', 1916)",1916,1.0
+paintings-thmbnls150-eq.jpg,"('the three sisters', 1916)",1916,1.0
+paintings-orient_187_thmb.jpg,"('head of lorette', 1917)",1917,1.0
+paintings-thmbnls150-ep.jpg,"('woman at the fountain', 1917)",1917,1.0
+paintings-orient_189_thmb.jpg,"('aicha and lorette', 1917)",1917,1.0
+paintings-thmbnls150-hma97.jpg,"('the painter and his model', 1917)",1917,1.0
+paintings-orient_185_thmb.jpg,"('lorette with a red dress', 1917)",1917,1.0
+paintings-thmbnls150-cj.jpg,"('interior with a violin', 1918)",1918,1.0
+paintings-orient_186_thmb.jpg,"('woman with dark hair', 1918)",1918,1.0
+paintings-thmbnls150-eu.jpg,"('woman with a flowered hat', 1919)",1919,1.0
+paintings-orient_183_thmb.jpg,"('woman with oriental dress', 1919)",1919,1.0
+paintings-thmbnls150-et.jpg,"('the artist and his model', 1919)",1919,1.0
+paintings-thmbnls150-ex.jpg,"('girl with a green dress', 1921)",1921,1.0
+paintings-thmbnls150-ez.jpg,"('odalisque with red pants', 1921)",1921,1.0
+paintings-orient_193_thmb.jpg,"('odalisque with a green plant and screen', 1923)",1923,1.0
+paintings-orient_195_thmb.jpg,"('odalisque', 1923)",1923,1.0
+paintings-thmbnls150-ca.jpg,"('moorish woman with upheld arms', 1923)",1923,1.0
+paintings-thmbnls150-fe.jpg,"('odalisque with magnolia', 1924)",1924,1.0
+paintings-orient_199_thmb.jpg,"('odalisque', 1925)",1925,1.0
+paintings-thmbnls150-ff.jpg,"('odalisque with a tambourine', 1926)",1926,1.0
+paintings-orient_84_thmb.jpg,"('odalisque', 1926)",1926,1.0
+paintings-orient_197_thmb.jpg,"('odalisque', 1926)",1926,1.0
+paintings-thmbnls150-fh.jpg,"('a nude lying on her back', 1927)",1927,1.0
+paintings-thmbnls150-fi.jpg,"('odalisque with gray pants', 1927)",1927,1.0
+paintings-orient_211_thmb.jpg,"('woman with a white dress', 1934)",1934,1.0
+paintings-thmbnls150-ey.jpg,"('decorative figure on an ornamental ground', 1934)",1934,1.0
+paintings-thmbnls150-fk.jpg,"('decorative figure on an ornamental ground', 1934)",1934,1.0
+paintings-thmbnls150-fo.jpg,"('a pink nude seated', 1935)",1935,1.0
+paintings-thmbnls150-fj.jpg,"('an nude dtanding before an open door', 1936)",1936,1.0
+paintings-thmbnls150-fm.jpg,"('a nude with her heel on her knee', 1936)",1936,1.0
+paintings-thmbnls150-fp.jpg,"('woman on a sofa, yellow and blue', 1936)",1936,1.0
+paintings-thmbnls150-zp.jpg,"('nude on a blue background', 1936)",1936,1.0
+paintings-thmbnls150-bz.jpg,"('woman in blue / the large blue robe and mimosas', 1936)",1936,1.0
+paintings-thmbnls150-fr.jpg,"('helen with a precious stone', 1937)",1937,1.0
+paintings-thmbnls150-fs.jpg,"('woman in yellow and blue with a guitar', 1939)",1939,1.0
+paintings-thmbnls150-dc.jpg,"('young girl with a yellow sofa', 1940)",1940,1.0
+paintings-thmbnls150-gb.jpg,"('interior with an etruscan vase', 1940)",1940,1.0
+paintings-thmbnls150-gc.jpg,"('two girls', 1941)",1941,1.0
+paintings-thmbnls150-gd.jpg,"('woman with a veil', 1942)",1942,1.0
+paintings-thmbnls150-gn.jpg,"('woman on a dark background', 1942)",1942,1.0
+paintings-thmbnls150-fz.jpg,"('young girl in rose', 1942)",1942,1.0
+paintings-thmbnls150-dh.jpg,"('sunlit interior', 1942)",1942,1.0
