@@ -20,16 +20,8 @@ We were always fascinated by the rivalry between artists. The rivalry was like a
 
 ## Data
 
-(10 points) 
-[Picasso Painting](https://www.pablo-ruiz-picasso.net/topviews.php)
+We have acquired two datasets from two websites, [Pablo Picasso Painting](https://www.pablo-ruiz-picasso.net/topviews.php) and [Henry Matisse Painting](http://www.henri-matisse.net/paintingssectionone.html). The two websites consisted paintings created by Pablo Picasso and Henry Martisse. In our datasets, we chosed the paintings created between 1900 and 1942. We scrapped down 235 Picasso's painting's from the first website. And we scrapped down 154 Martisse's paintings from the second website. The data is the digital copy of two artisits' original paintings. All of the data are in JPG form. 
 
-[Henry Matisse Painting](http://www.henri-matisse.net/paintingssectionone.html)
-
-This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
-- What is your cultural data source? 
-- When was it made? 
-- Who created the works? 
-- Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
 
 ## Code
 
