@@ -34,10 +34,16 @@ This section will describe your data and its origins. Each item should contain a
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
-- data acquisition/scraping
-- cleaning
-- analysis
+- data acquisition/scraping 
+  * [run_scraping.ipynb](/code/run_scraping.ipynb)
+- cleaning 
+  * [get all women's portraits from two artists](/code/run_Mat_vs_mis.ipynb)
+- analysis 
+  * [calculate the RMS contrast and entropy features](/code/run_calculating_RMS_Entropy.ipynb)
+  * [Analysis on Erotic Charge](/code/Erotic_charge.ipynb)
 - generating results. 
+  * [Classifier for these two artists --- 大家放code链接啊！！！！！](/code/Classifier.ipynb)
+  * [Visualization Result ---- 这里也要再稍微整理下code放链接上来]()
 
 Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
