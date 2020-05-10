@@ -66,7 +66,11 @@ The subsequent paragraphs could address questions including:
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+* Tianran Qiu
+* Zishun Jin
+* Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
+* Weihua Zhao:
+* Da Gong:
 
 ## Technical Notes and Dependencies
 
