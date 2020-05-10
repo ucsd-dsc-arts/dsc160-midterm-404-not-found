@@ -34,15 +34,21 @@ This section will describe your data and its origins. Each item should contain a
 ## Code
 
 (20 points)
+This is the part for codes of our project. This part contains 4 sections. The first section is code for scraping data from the two websites mentioned in the 'Data' Section. The second section is code for cleaning our data: for this project, the cleaning job is mainly to classify the women portraits of these two artists into maternity(0) and mistress (1). The third part is analysis: we first calculate the RMS contrast and average entropy features of images and then did analysis on erotic charge. The fourth part is results: we have developed a classfier for distinguishing the works of these two in this part, and we also did a visualization according to RMS contrast and average entropy to see how these two artists are different. 
 
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
-
-- data acquisition/scraping
-- cleaning
-- analysis
+- data acquisition/scraping 
+  * [Run_scraping.ipynb](/code/run_scraping.ipynb)
+- cleaning 
+  * [Maternity or Mistress?](/code/run_Mat_vs_mis.ipynb)
+- analysis 
+  * [Calculate the RMS contrast and entropy features](/code/run_calculating_RMS_Entropy.ipynb)
+  * [Analysis on Erotic Charge](/code/Erotic_charge.ipynb)
 - generating results. 
+  * [Classifier for these two artists](/code/Classifier.ipynb)
+  * [Visualization Result](/code/Visualization.ipynb)
+  
+  To see how to run entirely our code, please refer to [Midterm Project Showcase](/code/Midterm.ipynb)
 
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
 ## Results
 
