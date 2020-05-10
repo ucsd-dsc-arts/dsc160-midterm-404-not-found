@@ -21,6 +21,9 @@ We were always fascinated by the rivalry between artists. The rivalry was like a
 ## Data
 
 (10 points) 
+[Picasso Painting](https://www.pablo-ruiz-picasso.net/topviews.php)
+
+[Henry Matisse Painting](http://www.henri-matisse.net/paintingssectionone.html)
 
 This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
 - What is your cultural data source? 
