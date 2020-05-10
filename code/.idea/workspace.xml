@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="" />
+    <list default="true" id="4be3a208-7d8c-402e-a0e6-c403db25a3eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Classifier-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Classifier-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/classifier.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/classifier.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mat_vs_mis.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -46,9 +51,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Midterm Project-Copy1.ipynb">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Classifier-checkpoint.ipynb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="1931" selection-start-line="1931" selection-end-line="1931" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -74,12 +83,13 @@
         <option value="$PROJECT_DIR$/calculate_RMScontrast_AVGentropy.py" />
         <option value="$PROJECT_DIR$/scraping_data.py" />
         <option value="$PROJECT_DIR$/mat_vs_mis.py" />
+        <option value="$PROJECT_DIR$/.ipynb_checkpoints/Classifier-checkpoint.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="174" />
-    <option name="y" value="23" />
+    <option name="x" value="411" />
+    <option name="y" value="79" />
     <option name="width" value="1440" />
     <option name="height" value="859" />
   </component>
@@ -96,6 +106,11 @@
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,7 +148,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="23" width="1440" height="859" extended-state="0" />
+    <frame x="411" y="79" width="1440" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -189,6 +204,13 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/Classifier-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="1931" selection-start-line="1931" selection-end-line="1931" />
         </state>
       </provider>
     </entry>
