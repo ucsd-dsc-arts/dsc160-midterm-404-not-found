@@ -25,10 +25,10 @@ We have acquired two datasets from two websites, [Pablo Picasso Painting Website
 
 ## Code
 - Data Acquisition/ Scraping 
-  * [Run_scraping.ipynb](/code/run_scraping.ipynb): This part is for running scraping data from the dataset mentioned above. The main code is in the [scraping_data.py](/code/scraping_data.py)file.
+  * [Scraping](/code/run_scraping.ipynb): This part is for running scraping data from the dataset mentioned above. The main code is in the [scraping_data](/code/scraping_data.py)file.
 - Preprocessing / Cleaning
-  * [Label portraits into Maternity and Mistress](/code/run_Mat_vs_mis.ipynb): This part is for running labeling the images of these two artists into Maternity and Mistress by using keywords in the image name. The main code is in the [mat_vs_mis.py](/code/mat_vs_mis.py)file.
-  * [Calculate the RMS Contrast and Average Entropy features](/code/run_calculating_RMS_Entropy.ipynb): This part is for extracting the RMS Contrast and Average Entropy features from images. The main code is in the [calculate_RMScontrast_AVGentropy.py](/code/calculate_RMScontrast_AVGentropy.py)file. `Root mean square (RMS) contrast` does not depend on the angular frequency content or the spatial distribution of contrast in the image. RMS contrast is defined as the standard deviation of the pixel intensities. `Average Entropy` is for evaluating the complexity of an image.
+  * [Label portraits into Maternity and Mistress](/code/run_Mat_vs_mis.ipynb): This part is for running labeling the images of these two artists into Maternity and Mistress by using keywords in the image name. The main code is in the [mat_vs_mis](/code/mat_vs_mis.py)file.
+  * [Calculate the RMS Contrast and Average Entropy features](/code/run_calculating_RMS_Entropy.ipynb): This part is for extracting the RMS Contrast and Average Entropy features from images. The main code is in the [calculate_RMScontrast_AVGentropy](/code/calculate_RMScontrast_AVGentropy.py)file. `Root mean square (RMS) contrast` does not depend on the angular frequency content or the spatial distribution of contrast in the image. RMS contrast is defined as the standard deviation of the pixel intensities. `Average Entropy` is for evaluating the complexity of an image.
 - Analysis / Generating Results
   * [Analysis on Erotic Charge](/code/Erotic_charge.ipynb): This is a notebook for analyzing erotic charge in images for these two artists.
   * [Classifier for these two artists](/code/Classifier.ipynb): This is a notebook for classfying the images of these two artists. 
