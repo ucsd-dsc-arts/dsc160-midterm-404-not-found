@@ -66,7 +66,7 @@ The subsequent paragraphs could address questions including:
 * Zishun Jin：Extracted painting features, constructed classification models, contributed to parts of the abstract. 
 * Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
 * Weihua Zhao:
-* Da Gong:
+* Da Gong: Visualization of data using Bokeh, matplot.
 
 ## Technical Notes and Dependencies
  
