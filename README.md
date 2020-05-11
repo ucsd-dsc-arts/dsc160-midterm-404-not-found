@@ -1,4 +1,4 @@
-# Using Machine Learning for Feature Extraction and Identification of Artworks of Pablo Picasso and Henri Matisse
+# Using Machine Learning for Feature Extraction and Identification of Artworks of Pablo Picasso and Henri Matisse and Analysis in the Emotional Content 
 
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
@@ -65,7 +65,7 @@ The subsequent paragraphs could address questions including:
 * Tianran Qiu: Extracted painting features, constructed classification models, summarize Data and Reference part.
 * Zishun Jin：Extracted painting features, constructed classification models, contributed to parts of the abstract. 
 * Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
-* Weihua Zhao:
+* Weihua Zhao: Came up with the idea, exploratory data analysis, data cleaning, erotic charge calculation.
 * Da Gong: Visualization of data using Bokeh, matplot.
 
 ## Technical Notes and Dependencies
