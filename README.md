@@ -43,21 +43,22 @@ We have acquired two datasets from two websites, [Pablo Picasso Painting Website
 
 This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
 
+We chose RMS value to evaluate the contrast of a portrait and the entropy to evaluate the complexity of a portrait.
 
-- RMS contrast value in Picasso's paintings grouped by Maternity and Mistress
+- RMS contrast value in Picasso's paintings grouped by Maternity and Mistress: The RMS contrast for Mistress group is higher that that of Maternity group.
   * [RMS contrast of Picasso's portraits](/results/Picasso's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
 
-- RMS contrast value in Matisse's paintings grouped by Maternity and Mistress
+- RMS contrast value in Matisse's paintings grouped by Maternity and Mistress: The RMS contrast for Mistress group is higher that that of Maternity group.
   * [RMS contrast of Matisse's portraits](/results/Matisse's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
 
-- RMS contrast value in Picasso's and Matisse's paintings
-  * .[RMS contrast of Picasso's and Matisse's portraits](/results/Picasso's%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Matisse's%20Paintings'%20RMS%20Contrast%20Value.png)
+- RMS contrast value in Picasso's and Matisse's paintings: Overall, Picasso's portraits have higher RMS contrasts.
+  * [RMS contrast of Picasso's and Matisse's portraits](/results/Picasso's%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Matisse's%20Paintings'%20RMS%20Contrast%20Value.png)
 
-- Mean RMS contrast over years in Picasso's and Matisse's portraits
-  * .[Mean RMS contrast over years in Picasso's and Matisse's portraits](/results/bokeh_mean_rms_overyears_2.png)
+- Mean RMS contrast over years in Picasso's and Matisse's portraits: Since the year 1906 when they met, through the twenty years after, their RMS contrast have a overall similar pattern.
+  * [Mean RMS contrast over years in Picasso's and Matisse's portraits](/results/bokeh_mean_rms_overyears_2.png)
   
-- Bokeh visualization of these two artists: please run the notebook
-  * .[Boheh visualization](/results/Visualization_gongda.ipynb)
+- Bokeh visualization of these two artists: please run the notebook, we displayed all the portraits with the corresponding points.
+  * [Boheh visualization](/results/Visualization_gongda.ipynb)
 
 
 ## Discussion
@@ -73,6 +74,7 @@ The subsequent paragraphs could address questions including:
 - How do your results relate to broader social, cultural, economic political, etc., issues? 
 - In what future directions could you expand this work?
 
+We experimented with five models for our classifiers, SVC, decision tree, Bernoulli NB, K-nearest neighbor and random forest, in which the Random Forest Classifier performs the best with the test accuracy of 83.3%. The accuracy score for SVC is 68%, for Decision Tree Classifier is 0.743, and for K-nearest classifier is 79.5%. The reason why the random forest classifier achieved the highest accuracy is that it creates many trees for different features and combines their results which is more better than a single tree for decision tree algorithm. In addition, the random forest classifier works very well with high dimensionality, which means it fits well with our 7 features.
 ## Team Roles
 
 * Tianran Qiu: Extracted painting features, constructed classification models, summarize Data and Reference part.
