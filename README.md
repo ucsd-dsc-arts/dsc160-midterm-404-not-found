@@ -47,6 +47,11 @@ This section will contain links to documentation of your results. This can inclu
 - RMS contrast value in Picasso's paintings grouped by Maternity and Mistress
   * [RMS contrast of Picasso's portraits](/results/Picasso's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
 
+- RMS contrast value in Matisse's paintings grouped by Maternity and Mistress
+  * [RMS contrast of Matisse's portraits]
+(/results/Matisse's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
+
+
 ## Discussion
 
 (30 points, three to five paragraphs)
