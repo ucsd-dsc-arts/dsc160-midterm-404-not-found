@@ -48,8 +48,16 @@ This section will contain links to documentation of your results. This can inclu
   * [RMS contrast of Picasso's portraits](/results/Picasso's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
 
 - RMS contrast value in Matisse's paintings grouped by Maternity and Mistress
-  * [RMS contrast of Matisse's portraits]
-(/results/Matisse's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
+  * [RMS contrast of Matisse's portraits](/results/Matisse's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
+
+- RMS contrast value in Picasso's and Matisse's paintings
+  * .[RMS contrast of Picasso's and Matisse's portraits](/results/Picasso's%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Matisse's%20Paintings'%20RMS%20Contrast%20Value.png)
+
+- Mean RMS contrast over years in Picasso's and Matisse's portraits
+  * .[Mean RMS contrast over years in Picasso's and Matisse's portraits](/results/bokeh_mean_rms_overyears_2.png)
+  
+- Bokeh visualization of these two artists: please run the notebook
+  * .[Boheh visualization](/results/Visualization_gongda.ipynb)
 
 
 ## Discussion
