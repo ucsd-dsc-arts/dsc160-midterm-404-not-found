@@ -20,7 +20,7 @@ We were always fascinated by the rivalry between artists. The rivalry was like a
 
 ## Data
 
-We have acquired two datasets from two websites, [Pablo Picasso Painting Website](https://www.pablo-ruiz-picasso.net/topviews.php) and [Henry Matisse Painting Website](http://www.henri-matisse.net/paintingssectionone.html). The two websites consisted paintings created by Pablo Picasso and Henry Martisse. In our datasets, we chosed the paintings created between 1900 and 1942. We scrapped down 235 Picasso's painting's from the first website, [Picasso Paintings](https://github.com/ucsd-dsc-arts/dsc160-midterm-404-not-found/tree/master/data/picasso). And we scrapped down 154 Martisse's paintings from the second website, [Matisse Paintings](https://github.com/ucsd-dsc-arts/dsc160-midterm-404-not-found/tree/master/data/henri-matisse). The data is the digital copy of two artisits' original paintings. All of the data are in JPG form. 
+We have acquired two datasets from two websites, [Pablo Picasso Painting Website](https://www.pablo-ruiz-picasso.net/topviews.php) and [Henry Matisse Painting Website](http://www.henri-matisse.net/paintingssectionone.html). The two websites consisted paintings created by Pablo Picasso and Henry Martisse. In our datasets, we chosed the paintings created between 1900 and 1942. We scrapped down 235 Picasso's painting's from the first website, [Picasso Paintings](/data/picasso). And we scrapped down 154 Martisse's paintings from the second website, [Matisse Paintings](/data/henri-matisse). The data is the digital copy of two artisits' original paintings. All of the data are in JPG form. 
 
 
 ## Code
@@ -75,7 +75,6 @@ The subsequent paragraphs could address questions including:
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+- (https://www.smithsonianmag.com/arts-culture/matisse-and-his-models-70195044/)
+- (https://dsp.stackexchange.com/questions/58374/can-the-entropy-be-used-as-a-measure-of-the-contrast-of-an-image)
+- (https://www.anothermag.com/art-photography/8799/the-women-behind-the-work-picasso-and-his-muses)
