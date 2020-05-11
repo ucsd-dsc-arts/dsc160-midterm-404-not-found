@@ -69,11 +69,9 @@ The subsequent paragraphs could address questions including:
 * Da Gong:
 
 ## Technical Notes and Dependencies
-
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+ 
+- OpenCV
+- Bokeh
 
 ## Reference
 
