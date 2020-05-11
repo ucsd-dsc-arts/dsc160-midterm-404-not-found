@@ -62,7 +62,7 @@ The subsequent paragraphs could address questions including:
 
 ## Team Roles
 
-* Tianran Qiu
+* Tianran Qiu: extracted painting features, constructed classification models and summarize Data part.
 * Zishun Jin
 * Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
 * Weihua Zhao:
