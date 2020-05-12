@@ -62,26 +62,20 @@ We chose RMS value to evaluate the contrast of a portrait and the entropy to eva
 
 ## Discussion
 
-(30 points, three to five paragraphs)
 
-The first paragraph should be a short summary describing your results.
 
-The subsequent paragraphs could address questions including:
-- Why is this culturally relevant?
-- How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
-- How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
-- How do your results relate to broader social, cultural, economic political, etc., issues? 
-- In what future directions could you expand this work?
-
-- Firstly, we start our artist identification with experimenting with five models for our classifiers: SVC, decision tree, Bernoulli NB, K-nearest neighbor and random forest; among those, the Random Forest Classifier performs the best with the test accuracy of 83.3%. The accuracy score for SVC is 68%, for Decision Tree Classifier is 0.743, and for K-nearest classifier is 79.5%. The reason why the random forest classifier achieved the highest accuracy is that it creates many trees for different features and combines their results which is more better than a single tree for decision tree algorithm. In addition, the random forest classifier works very well with high dimensionality, which means it fits well with our 7 features. In terms of erotic charge, we found that the erotic charge on Mistress portraits are higher than Materinity portraits. Compared with Maternity portraits, Mistress portraits have higher contrasts and entropy; the RMS correlation between their portraits grows after they met each other, which validates our initial assumption.
-- Pablo Picasso and Henri Matisse are two giants whose light shined through the history of modern art. Picasso once said, "If I were not making the paintings I make, I would paint like Matisse," and Matisse said much the same about Picasso. In the following decades, these two had an interesting relationship: they cherished each other, yet were in rivalry with each other. We used the technique of Exploratory Data Analysis to decipher the subtle connection between their portraits.
+- Firstly, we start our artist identification with experimenting with five models for our classifiers: SVC, decision tree, Bernoulli NB, K-nearest neighbor and random forest; among those, the Random Forest Classifier performs the best with the test accuracy of 83.3%. The accuracy score for SVC is 68%, for Decision Tree Classifier is 0.743, and for K-nearest classifier is 79.5%. The reason why the random forest classifier achieved the highest accuracy is that it creates many trees for different features and combines their results which is more better than a single tree for decision tree algorithm. In addition, the random forest classifier works very well with high dimensionality, which means it fits well with our 7 features. In terms of erotic charge, we found that the erotic charge on Mistress portraits are higher than Materinity portraits; Matisse's paintings have condenser usuages of colors than Picasso, while Picasso's paintings have larger range of RMS since he himself had many different styles. Compared with Maternity portraits, Mistress portraits have higher contrasts and entropy; the RMS correlation between their portraits grows after they met each other, which validates our initial assumption.
+- Pablo Picasso and Henri Matisse are two giants whose light shined through the history of modern art. Picasso once said, "If I were not making the paintings I make, I would paint like Matisse," and Matisse said much the same about Picasso. In the following decades, these two had an interesting relationship: they cherished each other, yet were in rivalry with each other. We used the technique of Exploratory Data Analysis to decipher the subtle connections between their portraits. 
+- Picasso's style has a larger range of variety: from the early period to the later cubism period; while Matisse's style has less variance, he was influenced by a variaty of cultures including African art and Eastern art. What they have in common is that they both created lots of portraits of women, some of them were wives, others were mistresses, or muses. In the documentary, Matisse Meets Picasso, "Matisse saw his models as assitants, while Picasso saw his models as muses." Also, Matisse was famous for his bold usage of colors; in the article, Matisse and His Models, "Matisse himself knew perfectly well that the erotic charge in his work came from a passionate desire that overrode straightforward lust." Matisse embedded his desire within the colors. This idea inspired us to take a deeper look into the color usages, more specifically, RMS contrast and entropy, of both artists and compared them to have insight of their inner worlds about women, and the differences and similarities of their paintings. While there are artist identification projects in the wild, no one actually discovered their inner worlds, explored the erotic charge and the differences through picture contrast and entropy values.
+- In our opinions, art is a private conversation. Though a single painting can be seen by millions of eyes publicly, people perceive differently. The conversation in which artists communicate their ideas can differ largely from individual to individual. For Picasso and Matisse themselves, our findings might unveil the secrets and mysterious attitudes that only they know, to which they might be surprised since they are made public, although these are only our assumptions.
+- Our findings can be helpful in studying the development of art and modern art genre since these two are the pioneers; what is more, people might be able to find how the Industry Revolutions ultimately changed the way people saw the world and how cultures were transferred, elevated, and entered these artists' lives. If we want to expand this work, directions might possibly be to expand this workframe towards other artists and discover their artists towards sex, gender, wars, and life and death, any topic might be possible.
 
 ## Team Roles
 
 * Tianran Qiu: Extracted painting features, constructed classification models, summarize Data and Reference part.
 * Zishun Jin：Extracted painting features, constructed classification models, contributed to parts of the abstract. 
 * Yijun Liu: Scraping data, calculate RMS Contrast and average Entropy and Summarize Code Part
-* Weihua Zhao: Came up with the idea, exploratory data analysis, data cleaning, erotic charge calculation.
+* Weihua Zhao: Came up with the idea, exploratory data analysis, data cleaning, erotic charge calculation,Visualization, discussion.
 * Da Gong: Visualization of data using Bokeh, matplot.
 
 ## Technical Notes and Dependencies
@@ -94,3 +88,4 @@ The subsequent paragraphs could address questions including:
 - (https://www.smithsonianmag.com/arts-culture/matisse-and-his-models-70195044/)
 - (https://dsp.stackexchange.com/questions/58374/can-the-entropy-be-used-as-a-measure-of-the-contrast-of-an-image)
 - (https://www.anothermag.com/art-photography/8799/the-women-behind-the-work-picasso-and-his-muses)
+- (https://www.youtube.com/watch?v=_b2eTU6fOEE&t=2504s)
