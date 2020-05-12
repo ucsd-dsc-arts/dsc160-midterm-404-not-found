@@ -44,6 +44,9 @@ We chose RMS value to evaluate the contrast of a portrait and the entropy to eva
 
 - We find that the correlation between their RMS contrasts grows after 1906, the year they met, from -0.05345678 to -0.0961737.
 
+- We used five models for our classifiers: SVC, decision tree, Bernoulli NB, K-nearest neighbor and random forest; among those, the Random Forest Classifier performs the best with the test accuracy of 83.3%. 
+  * [Classifier for these two artists](/code/Classifier.ipynb)
+
 - RMS contrast value in Picasso's paintings grouped by Maternity and Mistress: The RMS contrast for Mistress group is higher that that of Maternity group.
   * [RMS contrast of Picasso's portraits](/results/Picasso's%20Maternity%20Paintings'%20RMS%20Contrast%20Value%20vs.%20Mistress%20Paintings'%20RMS%20Contrast%20Value.png):
 
